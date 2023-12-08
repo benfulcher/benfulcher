@@ -1,6 +1,6 @@
 [![Mastodon](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/bendfulcher)
 [![Twitter](https://img.shields.io/badge/Mastodon-%236364ff.svg?logo=Mastodon&logoColor=white)](https://fediscience.org/@bendfulcher)
-[![Email](https://img.shields.io/badge/ben.fulcher@sydney.edu.au-%23171A21.svg?logo=maildotru&logoColor=white)](mailto:ben.fulcher@sydney.edu.au)
+[![Email](https://img.shields.io/badge/EmailMe-%23171A21.svg?logo=maildotru&logoColor=white)](mailto:ben.fulcher@sydney.edu.au)
 
 I lead the [Dynamics and Neural Systems Group](https://dynamicsandneuralsystems.github.io/) in the School of Physics at the University of Sydney.
 
