@@ -6,6 +6,8 @@
 
 I lead the [Dynamics and Neural Systems Group](https://dynamicsandneuralsystems.github.io/) in the School of Physics at the University of Sydney.
 
+Please check out our team's open code in the organizational GitHub page for the [Dynamics and Neural Systems Group](https://github.com/DynamicsAndNeuralSystems).
+
 <a>
 <picture>
   <source
